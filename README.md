@@ -35,6 +35,7 @@ python check_setup.py    # lists models your key can use; set LLM_MODEL in .env;
 | --- | --- |
 | [`ROADMAP.md`](ROADMAP.md) | The full curriculum (12 modules, 106 topics) as a checklist. Ticked items are done. |
 | [`RPA-AI-ROSETTA.md`](RPA-AI-ROSETTA.md) | A growing map from UiPath concepts to AI-engineering concepts, with the limits of each analogy. |
+| [`lessons/`](lessons) | One file per lesson: concepts, gotchas, interview angles, the hands-on exercise and recall answers. |
 | `Day-N exercise/` | The code for each night, with a README: goal, how to run, what to notice. |
 | [`templates/`](templates) | The templates I use for each day's README and each weekly article. |
 | `check_setup.py` | One-time check that your API key and model work. |

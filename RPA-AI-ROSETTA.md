@@ -7,7 +7,7 @@ A running map from UiPath / RPA concepts to AI-engineering concepts. One row is 
 | AI concept | UiPath / RPA analogue | Where the analogy breaks | Day |
 | --- | --- | --- | --- |
 | Training vs inference | Publishing a package version vs running jobs on it. After publish, the logic is frozen; running it changes nothing about it. | A published workflow gives the same output for the same input. LLM inference samples from probabilities, so it need not (sampling is covered later in the roadmap). | 1 |
-| Token count as the unit of cost and limits | Estimating transaction volume and run time before a run, to plan capacity. | Token counts are not stable across models: the same text tokenizes differently under different tokenizers (Day 1, Part C compares two). | 1 |
+| Token count as the unit of cost and limits | Estimating transaction volume and run time before a run, to plan capacity. | Counts are model-specific: the same text gets a slightly different count under another tokenizer (Day 1, Part C: 201 vs 202), so recount against the model you will call. | 1 |
 
 ## Planned rows
 

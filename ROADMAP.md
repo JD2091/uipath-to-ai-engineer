@@ -3,9 +3,9 @@
 106 topics across 12 modules, taught in this order. Ticked items are done, with the date.
 
 ## Module 1: LLM Foundations
-- [x] 1.1 What an LLM is: next-token prediction, base vs chat models. 2026-10-30
-- [x] 1.2 Tokens and tokenization (BPE), why token counts matter. 2026-10-30
-- [x] 1.3 Neural network essentials: weights, loss, gradient descent, training vs inference. 2026-10-30
+- [x] 1.1 What an LLM is: next-token prediction, base vs chat models — 2026-10-30
+- [x] 1.2 Tokens and tokenization (BPE), why token counts matter — 2026-10-30
+- [x] 1.3 Neural network essentials: weights, loss, gradient descent, training vs inference — 2026-10-30
 - [ ] 1.4 Embeddings intuition: meaning as vectors
 - [ ] 1.5 Transformer architecture overview
 - [ ] 1.6 Self-attention and multi-head attention

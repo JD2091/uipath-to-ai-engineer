@@ -48,7 +48,7 @@ the dog . sat dog sat on the log
 2. **The loss never reaches zero, and that is correct.** After "the", the text continues with cat, dog, mat or log, so no model can be sure. The final probabilities after "the" (cat 0.32, dog 0.32, log 0.16, mat 0.16) are close to how often each word followed "the" in the text. With a lookup-table model, training amounts to learning those frequencies. A real LLM does the same job but computes the scores from the whole context instead of one previous word.
 3. **Training and inference are different phases.** The loop with `W -= lr * dW` is training. The sampling loop at the end only reads `W`. The weights are frozen and the model just draws tokens.
 4. **Part A: look at the pieces.** Compare how "strawberry" is split, and compare the tokens-per-character of the Hindi string with "Hello world". The model never sees letters, only these pieces, which is why letter-level questions are harder for it than they look.
-5. **Part C: the two counts differ.** Token counts depend on the tokenizer, so you cannot reuse one model's count to budget another's.
+5. **Part C: the two counts are close but not equal.** In the lesson's example run, the 20x fox sentence was 201 tokens by `tiktoken` and 202 by Gemini. A gap of about one token is normal: the tokenizers differ, and the provider adds a little message-format overhead. Budget with the provider's own count for the model you will actually call.
 
 ## UiPath bridge
 
