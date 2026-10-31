@@ -6,12 +6,12 @@
 - [x] 1.1 What an LLM is: next-token prediction, base vs chat models — 2026-10-30
 - [x] 1.2 Tokens and tokenization (BPE), why token counts matter — 2026-10-30
 - [x] 1.3 Neural network essentials: weights, loss, gradient descent, training vs inference — 2026-10-30
-- [ ] 1.4 Embeddings intuition: meaning as vectors
-- [ ] 1.5 Transformer architecture overview
-- [ ] 1.6 Self-attention and multi-head attention
-- [ ] 1.7 Positional encoding and the context window
-- [ ] 1.8 Pretraining, instruction tuning, RLHF/RLAIF/Constitutional AI
-- [ ] 1.9 Sampling: temperature, top-p, top-k, determinism
+- [x] 1.4 Embeddings intuition: meaning as vectors — 2026-10-30
+- [x] 1.5 Transformer architecture overview — 2026-10-30
+- [x] 1.6 Self-attention and multi-head attention — 2026-10-30
+- [x] 1.7 Positional encoding and the context window — 2026-10-31
+- [x] 1.8 Pretraining, instruction tuning, RLHF/RLAIF/Constitutional AI — 2026-10-31
+- [x] 1.9 Sampling: temperature, top-p, top-k, determinism — 2026-10-31
 - [ ] 1.10 KV cache, latency, and why long context costs more
 - [ ] 1.11 Hallucinations: causes and mitigations
 - [ ] 1.12 Reasoning models and extended thinking
