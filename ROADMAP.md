@@ -12,9 +12,9 @@
 - [x] 1.7 Positional encoding and the context window — 2026-10-31
 - [x] 1.8 Pretraining, instruction tuning, RLHF/RLAIF/Constitutional AI — 2026-10-31
 - [x] 1.9 Sampling: temperature, top-p, top-k, determinism — 2026-10-31
-- [ ] 1.10 KV cache, latency, and why long context costs more
-- [ ] 1.11 Hallucinations: causes and mitigations
-- [ ] 1.12 Reasoning models and extended thinking
+- [x] 1.10 KV cache, latency, and why long context costs more — 2026-11-02
+- [x] 1.11 Hallucinations: causes and mitigations — 2026-11-02
+- [x] 1.12 Reasoning models and extended thinking — 2026-11-02
 - [ ] 1.13 Multimodality: vision, documents, audio
 - [ ] 1.14 Model landscape: closed vs open weights, sizes, choosing a model
 - [ ] 1.15 Classical ML refresher: supervised/unsupervised, overfitting, precision/recall/F1
