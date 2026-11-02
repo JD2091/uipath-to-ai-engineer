@@ -11,7 +11,7 @@ Every lesson ends in code you can run. Every concept gets a **UiPath bridge** (h
 
 ## How it works
 
-- **Nightly:** about 20 minutes of reading, then 30 to 45 minutes of hands-on Python. Each night's exercise lands in its own `Day-N exercise/` folder with a short README.
+- **Nightly:** about 20 minutes of reading, then 30 to 45 minutes of hands-on Python. Each night gets one folder, `lessons/Day-NN/`, holding the lesson (`day-NN.md`) and its `Practice Exercise/` code.
 - **Sundays:** a review, a weekend mini-project, and a written article on what I learned and what went wrong.
 - **Free to follow:** the exercises use the free tier of Google AI Studio (Gemini) through its OpenAI-compatible endpoint, plus small local libraries. Any other OpenAI-compatible provider works by changing two environment variables.
 
@@ -35,8 +35,7 @@ python check_setup.py    # lists models your key can use; set LLM_MODEL in .env;
 | --- | --- |
 | [`ROADMAP.md`](ROADMAP.md) | The full curriculum (12 modules, 106 topics) as a checklist. Ticked items are done. |
 | [`RPA-AI-ROSETTA.md`](RPA-AI-ROSETTA.md) | A growing map from UiPath concepts to AI-engineering concepts, with the limits of each analogy. |
-| [`lessons/`](lessons) | One file per lesson: concepts, gotchas, interview angles, the hands-on exercise and recall answers. |
-| `Day-N exercise/` | The code for each night, with a README: goal, how to run, what to notice. |
+| [`lessons/`](lessons) | One folder per day (`Day-NN/`): the lesson file (concepts, gotchas, interview angles, recall answers) plus a `Practice Exercise/` subfolder with the code and a README. `Week-01-review/` holds the weekly review. |
 | [`templates/`](templates) | The templates I use for each day's README and each weekly article. |
 | `check_setup.py` | One-time check that your API key and model work. |
 

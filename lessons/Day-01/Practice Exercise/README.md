@@ -20,9 +20,9 @@ A language model is a function that gives every possible next token a score. Tok
 From the repo root, with your virtual environment active and `.env` set up (see the main README):
 
 ```bash
-python "Day-1 exercise/part_a_tokenize.py"
-python "Day-1 exercise/part_b_bigram.py"
-python "Day-1 exercise/part_c_compare_gemini_tokenizer.py"
+python "lessons/Day-01/Practice Exercise/part_a_tokenize.py"
+python "lessons/Day-01/Practice Exercise/part_b_bigram.py"
+python "lessons/Day-01/Practice Exercise/part_c_compare_gemini_tokenizer.py"
 ```
 
 Parts A and B need no API key. Part C does, and uses a small number of tokens.
@@ -54,7 +54,7 @@ the dog . sat dog sat on the log
 
 Training vs inference is like publishing a package version vs running jobs on it: after publishing, the logic is frozen. **Where it breaks:** a published workflow returns the same output for the same input, while sampling from a language model need not.
 
-More in the [RPA ↔ AI Rosetta Stone](../RPA-AI-ROSETTA.md).
+More in the [RPA ↔ AI Rosetta Stone](../../../RPA-AI-ROSETTA.md).
 
 ## Next
 

@@ -138,7 +138,7 @@ agent planning across many tool calls     high-volume, latency-sensitive steps
 
 **Goal.** See the KV cache's speed-up and memory cost on a local model, provoke and then reduce a hallucination, and measure what extra reasoning costs and buys on your Gemini setup.
 
-**Setup.** Nothing new to install. Part A reuses `torch`, `transformers` and the SmolLM2-135M-Instruct model from Day 3 (already in your Hugging Face cache). Parts B and C use the same `.env` as `check_setup.py` (`GEMINI_API_KEY`, `LLM_MODEL`) and make about 16 small API calls, well inside the free tier. Part C needs a thinking-capable model in `LLM_MODEL`; most current Gemini Flash models are. Put each part in its own file in a new `Day-4 exercise/` folder.
+**Setup.** Nothing new to install. Part A reuses `torch`, `transformers` and the SmolLM2-135M-Instruct model from Day 3 (already in your Hugging Face cache). Parts B and C use the same `.env` as `check_setup.py` (`GEMINI_API_KEY`, `LLM_MODEL`) and make about 16 small API calls, well inside the free tier. Part C needs a thinking-capable model in `LLM_MODEL`; most current Gemini Flash models are. Put each part in its own file in a new `lessons/Day-04/Practice Exercise/` folder.
 
 **Part A — the KV cache, locally (1.10), about 15 min.**
 

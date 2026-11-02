@@ -18,7 +18,7 @@
 ## Run it
 
 ```bash
-python "Day-N exercise/part_a_<name>.py"
+python "lessons/Day-NN/Practice Exercise/part_a_<name>.py"
 ```
 
 Setup needed beyond `requirements.txt`: <none | list it>
