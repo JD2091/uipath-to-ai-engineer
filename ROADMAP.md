@@ -15,9 +15,9 @@
 - [x] 1.10 KV cache, latency, and why long context costs more — 2026-11-02
 - [x] 1.11 Hallucinations: causes and mitigations — 2026-11-02
 - [x] 1.12 Reasoning models and extended thinking — 2026-11-02
-- [ ] 1.13 Multimodality: vision, documents, audio
-- [ ] 1.14 Model landscape: closed vs open weights, sizes, choosing a model
-- [ ] 1.15 Classical ML refresher: supervised/unsupervised, overfitting, precision/recall/F1
+- [x] 1.13 Multimodality: vision, documents, audio — 2026-11-03
+- [x] 1.14 Model landscape: closed vs open weights, sizes, choosing a model — 2026-11-03
+- [x] 1.15 Classical ML refresher: supervised/unsupervised, overfitting, precision/recall/F1 — 2026-11-03
 
 ## Module 2: Working with LLM APIs
 - [ ] 2.1 Messages API anatomy: roles, system prompt, multi-turn state
