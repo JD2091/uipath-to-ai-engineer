@@ -20,12 +20,12 @@
 - [x] 1.15 Classical ML refresher: supervised/unsupervised, overfitting, precision/recall/F1 — 2026-11-03
 
 ## Module 2: Working with LLM APIs
-- [ ] 2.1 Messages API anatomy: roles, system prompt, multi-turn state
-- [ ] 2.2 Pricing, token budgeting, rate limits
-- [ ] 2.3 Streaming
-- [ ] 2.4 Structured outputs and JSON schemas
-- [ ] 2.5 Errors, retries, backoff, timeouts
-- [ ] 2.6 Prompt caching
+- [x] 2.1 Messages API anatomy: roles, system prompt, multi-turn state — 2026-11-04
+- [x] 2.2 Pricing, token budgeting, rate limits — 2026-11-04
+- [x] 2.3 Streaming — 2026-11-04
+- [x] 2.4 Structured outputs and JSON schemas — 2026-11-05
+- [x] 2.5 Errors, retries, backoff, timeouts — 2026-11-05
+- [x] 2.6 Prompt caching — 2026-11-05
 - [ ] 2.7 Batch processing
 - [ ] 2.8 Async and concurrency in Python for LLM calls
 - [ ] 2.9 Cloud-hosted models (Bedrock/Vertex/Azure) and AI gateways

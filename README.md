@@ -41,7 +41,7 @@ python check_setup.py    # lists models your key can use; set LLM_MODEL in .env;
 
 ## Progress
 
-Module 1 (LLM foundations) is in progress. See [`ROADMAP.md`](ROADMAP.md) for the checklist.
+Module 1 (LLM foundations) is complete through Day 5 (topics 1.1 to 1.15). See [`ROADMAP.md`](ROADMAP.md) for the checklist.
 
 ## About
 
