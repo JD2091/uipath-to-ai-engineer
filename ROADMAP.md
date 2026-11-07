@@ -26,14 +26,14 @@
 - [x] 2.4 Structured outputs and JSON schemas — 2026-11-05
 - [x] 2.5 Errors, retries, backoff, timeouts — 2026-11-05
 - [x] 2.6 Prompt caching — 2026-11-05
-- [ ] 2.7 Batch processing
-- [ ] 2.8 Async and concurrency in Python for LLM calls
-- [ ] 2.9 Cloud-hosted models (Bedrock/Vertex/Azure) and AI gateways
+- [x] 2.7 Batch processing — 2026-11-06
+- [x] 2.8 Async and concurrency in Python for LLM calls — 2026-11-06
+- [x] 2.9 Cloud-hosted models (Bedrock/Vertex/Azure) and AI gateways — 2026-11-06
 
 ## Module 3: Prompt Engineering
-- [ ] 3.1 Clarity, specificity, context
-- [ ] 3.2 Few-shot examples
-- [ ] 3.3 Chain-of-thought
+- [x] 3.1 Clarity, specificity, context — 2026-11-07
+- [x] 3.2 Few-shot examples — 2026-11-07
+- [x] 3.3 Chain-of-thought — 2026-11-07
 - [ ] 3.4 Structuring prompts with XML tags
 - [ ] 3.5 System prompts and roles
 - [ ] 3.6 Prompt chaining and decomposition
