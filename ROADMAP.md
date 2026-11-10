@@ -34,14 +34,14 @@
 - [x] 3.1 Clarity, specificity, context — 2026-11-07
 - [x] 3.2 Few-shot examples — 2026-11-07
 - [x] 3.3 Chain-of-thought — 2026-11-07
-- [ ] 3.4 Structuring prompts with XML tags
-- [ ] 3.5 System prompts and roles
-- [ ] 3.6 Prompt chaining and decomposition
-- [ ] 3.7 Prompt templates, versioning, testing
-- [ ] 3.8 Prompt injection basics
+- [x] 3.4 Structuring prompts with XML tags — 2026-11-09
+- [x] 3.5 System prompts and roles — 2026-11-09
+- [x] 3.6 Prompt chaining and decomposition — 2026-11-09
+- [x] 3.7 Prompt templates, versioning, testing — 2026-11-10
+- [x] 3.8 Prompt injection basics — 2026-11-10
 
 ## Module 4: Embeddings & Vector Search
-- [ ] 4.1 Sentence/document embeddings and embedding models
+- [x] 4.1 Sentence/document embeddings and embedding models — 2026-11-10
 - [ ] 4.2 Similarity metrics
 - [ ] 4.3 Vector databases (pgvector, Chroma, Qdrant, Pinecone)
 - [ ] 4.4 ANN indexes (HNSW, IVF), recall vs speed
