@@ -42,9 +42,9 @@
 
 ## Module 4: Embeddings & Vector Search
 - [x] 4.1 Sentence/document embeddings and embedding models — 2026-11-10
-- [ ] 4.2 Similarity metrics
-- [ ] 4.3 Vector databases (pgvector, Chroma, Qdrant, Pinecone)
-- [ ] 4.4 ANN indexes (HNSW, IVF), recall vs speed
+- [x] 4.2 Similarity metrics — 2026-11-11
+- [x] 4.3 Vector databases (pgvector, Chroma, Qdrant, Pinecone) — 2026-11-11
+- [x] 4.4 ANN indexes (HNSW, IVF), recall vs speed — 2026-11-11
 - [ ] 4.5 Metadata filtering and multi-tenancy
 - [ ] 4.6 Choosing and benchmarking embedding models
 
