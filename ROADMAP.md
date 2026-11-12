@@ -45,11 +45,11 @@
 - [x] 4.2 Similarity metrics — 2026-11-11
 - [x] 4.3 Vector databases (pgvector, Chroma, Qdrant, Pinecone) — 2026-11-11
 - [x] 4.4 ANN indexes (HNSW, IVF), recall vs speed — 2026-11-11
-- [ ] 4.5 Metadata filtering and multi-tenancy
-- [ ] 4.6 Choosing and benchmarking embedding models
+- [x] 4.5 Metadata filtering and multi-tenancy — 2026-11-12
+- [x] 4.6 Choosing and benchmarking embedding models — 2026-11-12
 
 ## Module 5: RAG
-- [ ] 5.1 RAG architecture end to end
+- [x] 5.1 RAG architecture end to end — 2026-11-12
 - [ ] 5.2 Document loading and parsing (PDFs, tables, OCR)
 - [ ] 5.3 Chunking strategies
 - [ ] 5.4 Hybrid search (BM25 + vectors)
