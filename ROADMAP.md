@@ -50,9 +50,9 @@
 
 ## Module 5: RAG
 - [x] 5.1 RAG architecture end to end — 2026-11-12
-- [ ] 5.2 Document loading and parsing (PDFs, tables, OCR)
-- [ ] 5.3 Chunking strategies
-- [ ] 5.4 Hybrid search (BM25 + vectors)
+- [x] 5.2 Document loading and parsing (PDFs, tables, OCR) — 2026-11-13
+- [x] 5.3 Chunking strategies — 2026-11-13
+- [x] 5.4 Hybrid search (BM25 + vectors) — 2026-11-13
 - [ ] 5.5 Reranking
 - [ ] 5.6 Query rewriting, multi-query, HyDE
 - [ ] 5.7 Contextual retrieval
